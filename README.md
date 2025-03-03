@@ -11,4 +11,5 @@ Multiple VLANs (Documentation)
 
 **How to Explore**
 
-Open the "Multiple-VLANs.pkt" file in Cisco Packet Tracer. Review the documentation provided.
+Open the "Multiple-VLANs.pkt" file in Cisco Packet Tracer.   
+Review the documentation provided.
